@@ -1,0 +1,534 @@
+.f{
+    background-color: black;
+    height: 50px;
+    position: sticky;
+}
+.one{
+    color: rgba(21, 18, 190, 0.903);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-decoration: none;
+    position: relative;
+    bottom: 5px;    
+}
+.two{
+    position: relative;
+    top: 5px;
+}
+.vl{
+    border-left: 1px solid blue;
+    height: 35px;
+    position: relative;
+    left: 110px;
+    bottom: 39px;
+}
+.three{
+    position: relative;
+    bottom: 67px;
+    left: 130px;
+    color: white;
+}
+.t{
+    background-color: white;
+    height: 100px;
+    position: sticky;
+}
+.gt{
+    padding: 20px;
+    position: relative;
+    top: 15px;
+}
+.home,.gtour,.history,.faqs,.contact,.about,.num{
+    text-decoration: none;
+    color: black;
+}
+.home{
+    background-color:rgb(218, 193, 30);
+    padding: 20px;
+    padding-top: 35px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.num{
+    background-color:rgb(218, 193, 30);
+    padding: 20px;
+    padding-top: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 8px;
+}
+.gtour:hover,.history:hover,.faqs:hover,.contact:hover,.about:hover{
+    background-color:rgb(218, 193, 30);
+    padding: 20px;
+    padding-top: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.packages{
+    border: 1px solid grey;
+    width: 450px;
+    height: 405px;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+.ni{
+    border: 1px solid grey;
+    width: 350px;
+    height: 380px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+    font-family:cursive;
+}
+button:hover{
+    background-color:black;
+    color: white;
+}
+.d{
+    text-decoration: none;
+    font-family:cursive;
+}
+.div{
+    height: 1000px;
+}
+.utt{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 50px;
+    top: 20px;font-family:cursive;
+}
+.b{
+    padding: 10px;
+    border: 1px solid  black;
+    position: relative;
+    left: 300px;
+    border-radius: 15px;
+}
+.form{
+    border: 2px solid rgb(48, 31, 31);
+    width: 350px;
+    height: 620px;
+}
+.nav{
+    background-color:black;
+}
+.x{
+    text-decoration: none;
+    color:white;
+    position: relative;
+    left: 162px;
+    background-color: black;
+    
+}
+.x:hover{
+    background-color: red;
+    color: white;
+}
+.manali{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 550px;
+    bottom: 420px;
+    font-family:cursive;
+}
+.kashmir{
+    border: 1px solid grey;
+    width: 400px;
+    height: 460px;
+    position: relative;
+    left: 1030px;
+    bottom: 860px;
+    font-family:cursive;
+}
+.haridwar{
+    border: 1px solid grey;
+    width: 400px;
+    height: 460px;
+    position: relative;
+    left: 50px;
+    bottom: 765px;
+    font-family:cursive;
+}
+.golden{
+    border: 1px solid grey;
+    width: 410px;
+    height: 459px;
+    position: relative;
+    left: 550px;
+    bottom: 1230px;
+    font-family:cursive;
+}
+.exotic{
+    border: 1px solid grey;
+    width: 400px;
+    height: 450px;
+    position: relative;
+    left: 1030px;
+    bottom: 1690px;
+    font-family:cursive;
+}
+.si{
+    border: 1px solid grey;
+    width: 350px;
+    height: 380px;
+    position: relative;
+    left: 480px;
+    bottom: 352px;
+    font-family:cursive;
+}
+.andaman{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    font-family:cursive;
+}
+.kerala{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 550px;
+    bottom: 423px;
+    font-family:cursive;
+}
+.coorg{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 1030px;
+    bottom: 863px;
+    font-family:cursive;
+}
+.thekkady{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 50px;
+    bottom: 780px;
+    font-family:cursive;
+}
+.hyderabad{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 550px;
+    bottom: 1223px;
+    font-family:cursive;
+}
+.mangalore{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 1030px;
+    bottom: 1666px;
+    font-family:cursive;
+}
+.ei{
+    border: 1px solid grey;
+    width: 350px;
+    height: 380px;
+    position: relative;
+    left: 930px;
+    bottom: 736px;
+    font-family:cursive;
+}
+.him{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    font-family:cursive;
+}
+.gan{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 550px;
+    bottom: 425px;
+    font-family:cursive;
+}
+.hill{
+    border: 1px solid grey;
+    width: 400px;
+    height: 440px;
+    position: relative;
+    left: 1030px;
+    bottom: 870px;
+    font-family:cursive;
+}
+.seven{
+    border: 1px solid grey;
+    width: 400px;
+    height: 448px;
+    position: relative;
+    left: 50px;
+    bottom: 780px;
+    font-family:cursive;
+}
+.un{
+    border: 1px solid grey;
+    width: 410px;
+    height: 450px;
+    position: relative;
+    left: 550px;
+    bottom: 1230px;
+    font-family:cursive;
+}
+.assam{
+    border: 1px solid grey;
+    width: 400px;
+    height: 450px;
+    position: relative;
+    left: 1030px;
+    bottom: 1680px;
+    font-family:cursive;
+}
+.swi{
+    border: 1px solid grey;
+    width: 450px;
+    height: 405px;
+    position: relative;
+    left: 530px;
+    bottom: 385px;
+    font-family:cursive;
+}
+.isl{
+    border: 1px solid grey;
+    width: 450px;
+    height: 405px;
+    position: relative;
+    left: 1030px;
+    bottom: 790px;
+    font-family:cursive;
+}
+.his{
+    background-color:rgb(221, 171, 20) ;
+    height: 500px;
+}
+.mum{
+    border: 1px solid grey;
+    width: 300px;
+    height: 270px;
+    position: relative;
+    left: 25px;
+    top: 20px;
+}
+.hyd{
+    border: 1px solid grey;
+    width: 300px;
+    height: 270px;
+    position: relative;
+    left: 380px;
+    bottom: 250px;
+}
+.ban{
+    border: 1px solid grey;
+    width: 300px;
+    height: 270px;
+    position: relative;
+    left: 750px;
+    bottom: 520px;
+}
+.che{
+    border: 1px solid grey;
+    width: 300px;
+    height: 270px;
+    position: relative;
+    left: 25px;
+    bottom: 480px;
+}
+.coi{
+    border: 1px solid grey;
+    width: 300px;
+    height: 270px;
+    position: relative;
+    left: 380px;
+    bottom: 750px;
+}
+.ero{
+    border: 1px solid grey;
+    width: 300px;
+    height: 270px;
+    position: relative;
+    left: 750px;
+    bottom: 1020px;
+}
+.mad{
+    border: 1px solid grey;
+    width: 300px;
+    height: 270px;
+    position: relative;
+    left: 1150px;
+    bottom: 1608px;
+}
+.tri{
+    border: 1px solid grey;
+    width: 300px;
+    height: 270px;
+    position: relative;
+    left: 1150px;
+    bottom: 1560px;
+}
+.img{
+    background: url("https://e1.pxfuel.com/desktop-wallpaper/478/534/desktop-wallpaper-backgrounds-for-travel-website-travel-agency.jpg");
+    background-size: cover;
+    border: 1px solid grey;
+    width: 1510px;
+    height: 700px;
+}
+.but{
+    width: 70px; 
+    height: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.but:hover{
+    background-color: blueviolet;
+    color: white;
+}
+.thank{
+    background-image:url("https://static.vecteezy.com/system/resources/previews/009/971/715/non_2x/thank-you-hanging-sign-on-yellow-background-for-business-marketing-flyers-banners-presentations-and-posters-illustration-vector.jpg");
+    background-size: cover;
+}
+.us{
+    border: 1px solid grey;
+    width: 450px;
+    height: 405px;
+    position: relative;
+    left: 30px;
+    bottom: 730px;   
+    font-family:cursive;
+}
+.r{
+    border: 1px solid grey;
+    width: 400px;
+    height: 460px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    font-family:cursive;
+}
+.o{
+    border: 1px solid grey;
+    width: 400px;
+    height: 460px;
+    position: relative;
+    left: 500px;
+    bottom: 442px;
+    font-family:cursive;
+}
+.h{
+    border: 1px solid grey;
+    width: 400px;
+    height: 460px;
+    position: relative;
+    left: 950px;
+    bottom: 904px;
+    font-family:cursive;
+}
+.a{
+    border: 1px solid grey;
+    width: 400px;
+    height: 460px;
+    position: relative;
+    left: 50px;
+    bottom: 850px;
+    font-family:cursive;
+}
+.n{
+    border: 1px solid grey;
+    width: 400px;
+    height: 460px;
+    position: relative;
+    left: 500px;
+    bottom: 1310px;
+    font-family:cursive;
+}
+.k{
+    border: 1px solid grey;
+    width: 400px;
+    height: 460px;
+    position: relative;
+    left: 950px;
+    bottom: 1770px;
+    font-family:cursive;
+}
+.europe{
+    border: 1px solid grey;
+    width: 450px;
+    height: 405px;
+    position: relative;
+    left: 530px;
+    bottom: 1137px;
+    font-family:cursive;
+}
+.ind{
+    background: url("https://www.traveltoindia.org/category_images/popular-tour-packages-banner-1751631775.webp");
+    background-size: cover;
+    border: 1px solid grey;
+    width: 1510px;
+    height: 700px;
+}
+.NI{
+    background: url("https://t4.ftcdn.net/jpg/05/05/51/25/360_F_505512599_D6ulJI9hV6aGTP04FPC2XDk5QHGOQtpW.jpg");
+    background-size: cover;
+    border: 1px solid grey;
+    width: 1510px;
+    height: 700px;
+}
+.SI{
+    background: url("https://experiencemyindia.com/wp-content/uploads/2025/01/Travelling-to-South-India.jpg");
+    background-size: cover;
+    border: 1px solid grey;
+    width: 1510px;
+    height: 700px;
+}
+.EI{
+    background: url("https://images.unsplash.com/opengraph/1x1.png?auto=format&fit=crop&q=60&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1668007598394-292ee944e83b%3Fixid%3DM3wxMjA3fDB8MXxzZWFyY2h8M3x8bm9ydGglMjBlYXN0JTIwaW5kaWF8ZW58MHx8fHwxNzYxODM3MTA1fDA%26ixlib%3Drb-4.1.0%26auto%3Dformat%26fit%3Dcrop%26q%3D60%26crop%3Dfaces%252Cedges%26h%3D630%26w%3D1200%26blend%3D000000%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark-w%3D750%26mark-align%3Dmiddle%252Ccenter%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fsearch-input.png%253Fauto%253Dformat%2526fit%253Dcrop%2526q%253D60%2526w%253D750%2526h%253D84%2526txt%253Dnorth%252Beast%252Bindia%2526txt-pad%253D80%2526txt-align%253Dmiddle%25252Cleft%2526txt-color%253D%252523000000%2526txt-size%253D40%2526txt-width%253D660%2526txt-clip%253Dellipsis&blend-w=1");
+    background-size: cover;
+    border: 1px solid grey;
+    width: 1510px;
+    height: 700px;
+}
+.SWI{
+    background: url("https://www.shutterstock.com/image-vector/switzerland-landmark-global-travel-journey-260nw-1112222150.jpg");
+    background-size: cover;
+    border: 1px solid grey;
+    width: 1510px;
+    height: 700px;
+}
+.ISL{
+    background: url("https://static.vecteezy.com/system/resources/previews/013/809/016/non_2x/summer-travel-background-exotic-tropical-beach-island-paradise-coast-palm-trees-white-sand-amazing-sky-ocean-lagoon-fantastic-beautiful-nature-background-sunny-day-idyllic-inspirational-vacation-photo.jpg");
+    background-size: cover;
+    border: 1px solid grey;
+    width: 1510px;
+    height: 700px;
+}
+.USA{
+    background: url("https://t4.ftcdn.net/jpg/00/65/48/25/360_F_65482539_C0ZozE5gUjCafz7Xq98WB4dW6LAhqKfs.jpg");
+    background-size: cover;
+    border: 1px solid grey;
+    width: 1510px;
+    height: 700px;
+}
+.EUrope{
+    background: url("https://media.istockphoto.com/id/607993430/vector/europe-skyline-detailed-silhouette-vector-illustration.jpg?s=612x612&w=0&k=20&c=fyY1UQ5FB16nnQkY1KJhRxrkWRNLUhdNnFqb1kvnaCI=");
+    background-size: cover;
+    border: 1px solid grey;
+    width: 1510px;
+    height: 700px;
+}
